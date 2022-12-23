@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/becketbowes/ihaveanideafora.git"
+    "url": "git+https://github.com/ccd330/ihaveanidea-clone.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/becketbowes/ihaveanideafora/issues"
+    "url": "https://github.com/ccd330/ihaveanidea-clone/issues"
   },
-  "homepage": "https://github.com/becketbowes/ihaveanideafora#readme",
+  "homepage": "https://github.com/ccd330/ihaveanidea-clone",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cloudinary": "^1.29.0",
